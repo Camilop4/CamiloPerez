@@ -16,11 +16,19 @@ Tecnologias que uso?
 por medio de el bootcamp he adquirido conocimiento y experiencia fundamental para despegar por lo que las principales tecnologias que manejo son:
 
 •	JavaScript
+
 •	React.js
+
 •	Node.js
+
 •	Express.js
+
 •	PsotegreSQL
+
 •	Sequelize
+
 •	SQL
+
 •	Git
+
 Claramente incluyendo HTML y CSS entre otras herramientas
