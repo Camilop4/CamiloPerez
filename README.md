@@ -1,5 +1,4 @@
 #  Hola! soy Jeffer Camilo Romero Perez
-O conocido por mi nickname Camilop4
 
 Quien soy?
 
